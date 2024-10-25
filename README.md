@@ -1,5 +1,5 @@
 # Pinterest Intro Animation Prototype 🎥✨
-<img src = "Screenshots/Screenshot 2024-10-23 235008.png" width="100%" height="auto"/>
+<img src = "Screenshots/12.png" width="100%" height="auto"/>
 ## Overview ✨
 This repository contains the Figma prototype for a **Pinterest Intro Animation**. The animation is designed to create a visually stunning and smooth experience for users as they interact with the platform. It sets the tone for Pinterest’s sleek and stylish interface while engaging users from the moment they open the app.
 
