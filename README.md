@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/515957b1-1829-4e8a-88ad-094ab4f8335b
 - Gather user feedback to fine-tune the animation for a better experience.
 
 ## License 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ## Contributing 
 This project is not open for contributions at the moment, but feedback and suggestions are always appreciated!
